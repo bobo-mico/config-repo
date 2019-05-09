@@ -18,4 +18,4 @@ PRODUCT:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 
-env: love002
+env: love 0789123456
